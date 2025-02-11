@@ -40,7 +40,7 @@ Usage
 
 To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/gopiashokan/YouTube-Video-Transcript-Summarizer-with-GenAI.git
+Clone the repository: git clone https://github.com/Mahes101/YouTube_Summarizer_using_GoogleGeminiLLM_Model.git
 Install the required packages: pip install -r requirements.txt
 Add your Google API key to the .env file.
 Run the Streamlit app: streamlit run app.py
@@ -81,7 +81,4 @@ Contributing
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 
-License
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
